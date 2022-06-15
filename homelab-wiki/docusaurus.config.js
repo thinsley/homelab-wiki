@@ -9,7 +9,7 @@ const config = {
   title: 'Hinsley Homelab Wiki',
   tagline: 'Teamwork makes the dreamwork',
   url: 'https://thinsley.github.io',
-  baseUrl: '/',
+  baseUrl: '/homelab-wiki/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
