@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhomelab_wiki=self.webpackChunkhomelab_wiki||[]).push([[1305],{4775:function(e){e.exports=JSON.parse('{"permalink":"/homelab-wiki/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
